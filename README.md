@@ -65,7 +65,7 @@ cd perceptron-iris
 ```
 2. **Install dependencies**:
 ``` bash 
-pip install numpy pandas matplotlib scikit-learn-r requirements.txt
+pip install -r requirements.txt
 ```
 3. **Run the script or notebook**:
 ``` bash
